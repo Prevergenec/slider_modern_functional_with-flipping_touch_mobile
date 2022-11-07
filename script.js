@@ -2,8 +2,6 @@
 
     window.addEventListener('DOMContentLoaded', () => {
 
-        
-
       const slides = document.querySelectorAll('.offer__slide'),
 			slider = document.querySelector('.offer__slider'),
             prev = document.querySelector('.offer__slider-prev'),
